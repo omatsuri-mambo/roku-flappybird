@@ -15,8 +15,8 @@ A tiny Flappy Bird-style Roku SceneGraph channel.
 2. Open your Roku device's developer installer in a browser.
 3. Upload the zip and install it.
 
-On PowerShell, from this folder:
+mambo message:
 
-```powershell
-Compress-Archive -Path manifest,source,components -DestinationPath flappy-roku.zip -Force
+```mambo mambo
+omatsuri mambo
 ```
